@@ -1,10 +1,20 @@
 phd:
-  title: Ph.D. in Physics
-  location: Zürich, Switzerland
-  date: 1905
-  description: University of Zürich
+  title: Ph.D. in Finance
+  location: Beijing, China
+  date: 2021 - 2026
+  description: Peking University  (PKU)
 master:
-  title: Master of Science
-  location: Zürich, Switzerland
-  date: 1896 - 1900
-  description: ETH
+  title: Master of Science in Economics
+  location: London, UK
+  date: 2016 - 2017
+  description: The London School of Economics and Political Science (LSE)
+exchange:
+  title: Exchange Program in Resource Economics
+  location: Copenhagen, Denmark
+  date: 2015
+  description: University of Copenhagen (UCPH)
+bachelor:
+  title: Bachelor of Arts in Agricultural Economics
+  location: Beijing, China
+  date: 2012 - 2016
+  description: Renmin University of China (RUC)

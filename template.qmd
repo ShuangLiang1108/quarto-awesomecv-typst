@@ -1,30 +1,24 @@
 ---
-title: "Albert Einstein's CV"
+title: "Shuang Liang's CV"
 author:
-  firstname: Albert
-  lastname: Einstein
-  address: "Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"
-  position: "Research Physicist ・ Professor"
+  firstname: Shuang
+  lastname: Liang
+  address: "WeChat Official Account: Computational Social Science Research"
+  position: TechFin・FinTech・RegTech
   contacts:
+    - icon: fa phone
+      text: "Phone: 133 4897 3380"
     - icon: fa envelope
-      text: ae@example.com
-      url: "mailto:ae@example.com"
-    - icon: assets/icon/bi-house-fill.svg
-      text: example.com
-      url: https://example.com
-    - icon: fa brands orcid
-      text: 0000-0000-0000-0000
-      url: https://orcid.org/0000-0000-0000-0000
-    - icon: fa brands github
-      text: GitHub
-      url: https://github.com/example
-    - icon: fa brands linkedin
-      text: LinkedIn
-      url: https://linkedin.com/in/example
-    - icon: fa brands x-twitter
-      text: twitter
-      url: https://twitter.com/example
+      text: "Email: liangs2021@econ.pku.edu.cn"
+      url: "mailto:liangs2021@econ.pku.edu.cn"
+    - icon: fa globe
+      text: "Personal Homepage: shuangliang1108.github.io"
+      url: "https://shuangliang1108.github.io/"
 format: awesomecv-typst
+execute:
+  echo: false
+  warning: false
+  message: false
 brand:
   typography: 
     fonts:
