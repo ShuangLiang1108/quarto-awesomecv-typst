@@ -31,8 +31,8 @@ brand:
         style: [normal, italic]
     base: Source Sans 3
   color:
-    primary: "#dc3522"
-    link: "#771822"
+    primary: "#6191d3"
+    link: "#005EB8"
   defaults: 
     awesomecv-typst:
       font-header: Roboto
@@ -47,6 +47,17 @@ brand:
 
 {{< yaml assets/yml/publication.yml >}}
 
+## Working Papers
+
+{{< yaml assets/yml/paper.yml >}}
+
+## Projects
+
+{{< yaml assets/yml/project.yml >}}
+
+## Conference Presentations
+
+{{< yaml assets/yml/presentation.yml >}}
 
 ## Work Experience
 

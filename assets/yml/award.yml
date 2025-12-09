@@ -1,8 +1,19 @@
-nobel-prize:
-  title: Nobel Prize in Physics
-  location: Stockholm, Sweden
-  date: 1921
-  description: For his services to
-  details:
-    - Theoretical Physics
-    - Discovery of the law of the photoelectric effect
+award1:
+  title: Annual Outstanding Paper Award
+  date: 2024
+  description: Rural Finance Research Journal-level Award
+
+award2:
+  title: University-level Merit Student
+  date: 2014
+  description: University-level Honor
+
+award3:
+  title: University-level Scholarship
+  date: 2013, 2014
+  description: Merit-based Scholarship
+
+award4:
+  title: Second Prize,Undergraduate Innovation Cup
+  date: 2014
+  description: Humanities and Social Sciences Group, University-wide Student Research Competition

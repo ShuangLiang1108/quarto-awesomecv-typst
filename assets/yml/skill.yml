@@ -1,9 +1,9 @@
 lang:
   title: Languages
-  description: German (Native), English (Fluent), French (Intermediate)
+  description: Chinese (Native), English (Fluent), Danish (Intermediate)
 programming:
   title: Programming Languages
-  description: Python, C++, Fortran
+  description: Python, R, Matlab, Stata
 markup:
   title: Markup Languages
-  description: Typst, Quarto, LaTeX
+  description: LaTex, Markdown, Rmarkdown, Quarto, Typst

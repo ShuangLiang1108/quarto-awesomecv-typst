@@ -8,3 +8,5 @@ _site/
 .DS_Store
 air.toml
 **/*.quarto_ipynb
+
+/.luarc.json
