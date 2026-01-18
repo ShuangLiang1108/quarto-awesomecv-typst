@@ -1,23 +1,21 @@
-w1:
-  title: Industry Transfer and Urban Green Growth: Asymmetric Spillovers and Nonlinear Thresholds
-  location: Cleaner and Responsible Consumption
+w2:
+  title: Venture Capital, Investor Patience, and Corporate Innovation
+  location: International Review of Economics & Finance
   date: R&R
   description: With Shuguang Wang, First and Corresponding Author
   details:
-    - ESCI Q1, Impact Factor 5.3
-
-w2:
-  title: Venture Capital, Investor Patience, and Corporate Innovation
-  date: Under Review
-  description: With Shuguang Wang, First and Corresponding Author
+    - SSCI Q1, Impact Factor 5.6
 
 w3:
-  title: Bank AI and Systemic Risk: Evidence on Macroprudential Limits
-  date: Under Review
+  title: Idiosyncratic Risk Down, Contagion Risk Up: FinTech and Macroprudential Limits
+  location: Research in International Business and Finance
+  date: R&R
   description: With Yangjingzhuo Liu, Corresponding Author
+  details:
+    - SSCI Q1, Impact Factor 6.9
 
 w4:
-  title: Idiosyncratic Risk Down, Contagion Risk Up: FinTech and Macroprudential Limits
+  title: Bank AI and Systemic Risk: Evidence on Macroprudential Limits
   date: Under Review
   description: With Yangjingzhuo Liu, Corresponding Author
 
